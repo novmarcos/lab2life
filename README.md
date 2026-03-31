@@ -13,17 +13,21 @@ Demonstrations that illustrate leveraging Google Cloud for Life Sciences Applica
 
 #### Protein Docking with Alphafold
 
-Alphafold Blueprint for Google Cloud Cluster Toolkit
+[Alphafold Blueprint for Google Cloud Cluster Toolkit] (https://github.com/google-deepmind/alphafold3)
 
 #### Molecular Simulations with GROMACS
 
-GROMACS Blueprint for Google Cloud Cluster Toolkit
+[GROMACS Blueprint for Google Cloud Cluster Toolkit] (https://github.com/GoogleCloudPlatform/cluster-toolkit/blob/main/community/examples/hpc-slurm-gromacs.yaml)
 
 ### Hypothesis Investigation
 
 #### Biomarker Identification
 
-JAVELIN Clinical Trial Investigation
+JAVELIN Clinical Trial Investigation 
+
+Notebooks:
+    [Loading the JAVELIN Clinical Trial Data Into Big Query] (https://github.com/novmarcos/lab2life/blob/main/use_cases/clinical_trial_optimization/biomarker_identificaiton/create_table.ipynb)
+    [Biomarker Identification with the Data Scientist Agent] (https://github.com/novmarcos/lab2life/blob/main/use_cases/clinical_trial_optimization/biomarker_identificaiton/prompt_for_data_science_agent.ipynb)
 
 ### Clinical Trial Optimization
 
