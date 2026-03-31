@@ -27,9 +27,9 @@ JAVELIN Clinical Trial Investigation
 
 Notebooks:
 
-    [Loading the JAVELIN Clinical Trial Data Into Big Query](https://github.com/novmarcos/lab2life/blob/main/use_cases/clinical_trial_optimization/biomarker_identificaiton/create_table.ipynb)
+[Loading the JAVELIN Clinical Trial Data Into Big Query](https://github.com/novmarcos/lab2life/blob/main/use_cases/clinical_trial_optimization/biomarker_identificaiton/create_table.ipynb)
 
-    [Biomarker Identification with the Data Scientist Agent](https://github.com/novmarcos/lab2life/blob/main/use_cases/clinical_trial_optimization/biomarker_identificaiton/prompt_for_data_science_agent.ipynb)
+[Biomarker Identification with the Data Scientist Agent](https://github.com/novmarcos/lab2life/blob/main/use_cases/clinical_trial_optimization/biomarker_identificaiton/prompt_for_data_science_agent.ipynb)
 
 ### Clinical Trial Optimization
 
